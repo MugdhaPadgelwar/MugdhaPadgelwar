@@ -1,7 +1,7 @@
 # Hey 👋 I am  Mugdha Padgelwar
 
 # 💫 About Me:
-✦Currenty I am creating projects with React.js.<br>✦Exploring Technical Content Writing.<br>✦You can ask me about React.js and Java
+✦Currenty I am creating projects with MEAN Stack.<br>✦Exploring Technical Content Writing.
 
 
 ## 🌐 Socials:
